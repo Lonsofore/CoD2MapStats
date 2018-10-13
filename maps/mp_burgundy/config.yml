@@ -1,0 +1,10 @@
+map1.jpg:
+  down: -1500
+  left: -1600
+  right: 2400
+  up: 3900
+map.jpg:
+  down: -1200
+  left: -1500
+  right: 2150
+  up: 3650
